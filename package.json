@@ -1,0 +1,36 @@
+{
+  "name": "learn-next",
+  "version": "1.0.0",
+  "description": "learn nextjs",
+  "scripts": {
+    "next": "next dev",
+    "react": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "author": "iamjosephdaramola",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^13.4.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "^5.0.1",
+    "typescript": "^5.0.4"
+  },
+  "devDependencies": {
+    "@types/node": "^20.1.0",
+    "@types/react": "^18.2.6",
+    "@types/react-dom": "^18.2.4"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
