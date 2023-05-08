@@ -1,7 +1,7 @@
 {
   "name": "learn-next",
   "version": "1.0.0",
-  "description": "learn nextjs",
+  "description": "learning nextjs",
   "scripts": {
     "next": "next dev",
     "react": "react-scripts start",
